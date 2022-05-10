@@ -10,3 +10,5 @@ instance, and then instantiate the pipeline in your project Jenkinsfile
 
 This will also use an example of global variabls from the log.groovy
 definitions
+
+<a href='http://localhost:8080/job/shared-library/'><img src='http://localhost:8080/buildStatus/icon?job=shared-library'></a>
